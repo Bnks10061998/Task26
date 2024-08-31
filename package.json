@@ -1,0 +1,14 @@
+{
+  "name": "hallbooknode_js",
+  "version": "1.0.0",
+  "description": "The hall Booking Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaviya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
