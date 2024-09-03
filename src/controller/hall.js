@@ -1,12 +1,12 @@
 let rooms = [
   {
-    roomId:"R1",
+    roomId:"A001",
     noseatsAvailable:"5",
     amenitiesrooms:"Table,Ac",
     priceaPerHour:"100"
 },
 {
-  roomId:"R2",
+  roomId:"A002",
   noseatsAvailable:"3",
   amenitiesrooms:"Table,Ac",
   priceaPerHour:"75"
@@ -17,7 +17,7 @@ let bookings = [{
     bookingDate:"30/08/2024",
     startTime: "01:30pm",
     endTime: "10:00pm",
-    roomId: "R1",
+    roomId: "A002",
     status: "booked" 
 }
 ];
@@ -29,7 +29,7 @@ let customers = [
             bookingDate:"30/08/2024",
             startTime: '01:30pm',
             endTime: '10:00pm',
-            roomId: 'R1',
+            roomId: 'A002',
             status: 'booked'  
           }
       ] }
